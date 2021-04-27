@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @cedric-pk, Senior Software Engineer with 6+ years of experience developing, testing and deploying web service and mobile apps.
+- 👋 Hi, I’m @cedric-pk!
+
+  Senior Software Engineer with 6+ years of experience developing, testing and deploying web service and mobile apps.
 
   Excellent ability to work as part of a team to deliver great works. 
   
