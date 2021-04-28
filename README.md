@@ -13,11 +13,13 @@
   
   Blockchain Technology: Smart Contract, Tokenomics, D-App development, Solidity
   
-  Web Development: Rust, React.js, Node.js, Python
+  Programming Language: Rust, Javascript, Python, HTML / CSS, PHP
+  
+  Web Frameworks: React.js, Vue.js, Node.js / Express.js, Django / Flask, Laravel
   
   Database Management: NoSQL, MongoDB, MySQL, PostgreSQL
   
-  Project Management: DevOps, CI/CD, Jira, Agile Methodology
+  Project Management: DevOps, CI / CD, Jira, Agile Methodology
 
 
 - 📫 How to reach me ...
