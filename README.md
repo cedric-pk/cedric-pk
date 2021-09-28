@@ -18,7 +18,7 @@
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 
-[![Solidity](https://github.com/cedric-pk/cedric-pk/blob/master/solidity.png)](https://github.com/cedric-pk/)
+[![Solidity](https://github.com/cedric-pk/cedric-pk/blob/main/solidity.png)](https://github.com/cedric-pk/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 [![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
