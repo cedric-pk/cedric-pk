@@ -2,7 +2,11 @@
 
 - 👋 Hi, I’m @cedric-pk!
 
-  Senior Software Engineer with 7+ years of experience developing, testing and deploying web service and mobile apps.
+  I'm a reliable Blockchain engineer and also a full-stack engineer who has great experience in Blockchain and web development with a Master's degree.
+
+  Since I worked in the crypto industry, I've built tokens, d-Apps, and blockchain related systems, such as DeFi, NFT, Oracles, gambling, and so on.
+
+  Solidity, Python, Rust, React.js, and Node.js are my major experienced fields.
 
   Excellent ability to work as part of a team to deliver great works. 
   
