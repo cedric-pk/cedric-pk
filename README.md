@@ -1,19 +1,3 @@
-### About Me:
-
-- 👋 Hi, I’m @cedric-pk!
-
-  I'm a reliable Blockchain engineer and also a full-stack engineer who has great experience in Blockchain and web development with a Master's degree.
-
-  Since I worked in the crypto industry, I've built tokens, d-Apps, and blockchain related systems, such as DeFi, NFT, Oracles, gambling, and so on.
-
-  Solidity, Python, Rust, React.js, and Node.js are my major experienced fields.
-
-  Excellent ability to work as part of a team to deliver great works. 
-  
-  High proficient in object-oriented methodologies, data structures and algorithms, as well as quality coding and excellent debugging skills.
-  
-### Languages and Tools:
-
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/cedric-pk/)](https://github.com/cedric-pk/)
@@ -63,10 +47,6 @@
 <img align="center" alt="cedric-pk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cedric-pk&show_icons=true&hide_border=true" /><br /><br />
 
 ---
-
-### Connect with me:
-
-[Email]: cedric.pk22@gmail.com
 
 <!---
 cedric-pk/cedric-pk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
