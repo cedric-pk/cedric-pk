@@ -44,8 +44,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedric-pk&theme=white" /> 
 
-<img align="center" alt="cedric-pk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cedric-pk&show_icons=true&hide_border=true" /><br /><br />
-
 ---
 
 <!---
